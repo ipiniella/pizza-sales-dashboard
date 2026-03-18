@@ -56,7 +56,8 @@ This project analyzes pizza sales performance using an interactive Power BI dash
 -Product performance comparison
 
 ## Screenshots
-Dashboard preview: https://github.com/ipiniella/pizza-sales-dashboard/blob/main/Pizza_Hat_Sales_Report.png
+Dashboard preview:![ALT text] (https://github.com/ipiniella/pizza-sales-dashboard/blob/main/Pizza_Hat_Sales_Report.png)
+
 
 
 
