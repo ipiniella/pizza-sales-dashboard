@@ -1,4 +1,4 @@
-# pizza-sales-dashboard
+# Pizza_Sales_Dashboard
 Pizza Sales Dashboard in Power BI
 
 ## Project Overview
